@@ -4,8 +4,8 @@
    Both are safe to expose in frontend code — the anon key only grants what
    your Row Level Security policies (see supabase/setup.sql) allow it to. */
 window.GITHUB_CONFIG = {
-  supabaseUrl: 'https://YOUR_PROJECT_REF.supabase.co',
-  supabaseAnonKey: 'YOUR_ANON_PUBLIC_KEY',
+  supabaseUrl: 'https://odkeoqafaajindcarhrv.supabase.co',
+  supabaseAnonKey: 'sb_publishable_NZ8pPPOzvacpJufUtrwtNQ_lFgLrGyb',
 
   // How often (ms) every open page re-checks Supabase for newer data.
   // 8000 = 8 seconds. Lower = faster updates but more requests.
